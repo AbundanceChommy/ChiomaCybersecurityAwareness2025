@@ -5,8 +5,7 @@ October 2025 awareness journey to educate individuals on how to stay safe online
 ---
 
 ## About This Repository
-This repository contains my personal notes from **Cybersecurity Awareness Month 2025**.  
-Each day covers a unique cybersecurity topic designed to help both tech and non-tech audiences understand online safety.
+This repository contains my personal notes from **Cybersecurity Awareness Month 2025** designed to help both tech and non-tech audiences understand online safety.
 
 ---
 
